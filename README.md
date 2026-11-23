@@ -1,8 +1,8 @@
 # The World, 23 November 2026
 
 [![news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/c/news-image-20261123)
-[![rank](https://make.fun/badge/chiidaichii1-boop/news-image-20261123/rank.svg)](https://make.fun/c/news-image-20261123)
-[![reward](https://make.fun/badge/chiidaichii1-boop/news-image-20261123/reward.svg)](https://make.fun/c/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/chiidaichii1-boop/news-image-20261123/rank.svg)](https://make.fun/c/news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/chiidaichii1-boop/news-image-20261123/reward.svg)](https://make.fun/c/news-image-20261123)
 
 A newspaper front page summing up Monday 23 November 2026, drawn from
 scratch in pure Python (standard library only) by `main.py`.
